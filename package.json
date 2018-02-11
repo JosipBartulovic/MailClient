@@ -1,0 +1,22 @@
+{
+  "name": "mailclient",
+  "version": "1.0.0",
+  "description": "Nodejs mail sending client",
+  "main": "index.js",
+  "scripts": {
+    "test": "console.log('Test')"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JosipBartulovic/MailClient.git"
+  },
+  "author": "Josip Bartulovic",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JosipBartulovic/MailClient/issues"
+  },
+  "homepage": "https://github.com/JosipBartulovic/MailClient#readme",
+  "dependencies": {
+    "nodemailer": "^4.4.2"
+  }
+}
